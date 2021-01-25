@@ -1,11 +1,8 @@
 # João Soares
+### Head of Software Engineering @ Vision-Box :link: [LinkedIn](https://pt.linkedin.com/in/joaofgsoares?trk=profile-badge)
 
-[LinkedIn](https://pt.linkedin.com/in/joaofgsoares?trk=profile-badge)
+### Youtube Channel :link: [YouTube](https://www.youtube.com/embed/eQ-UhIxW6Oc")
 
+### Medium Articles :link: [Medium](https://morthor.medium.com)
 
-![youtube](assets/YouTube-icon.png.jpg) [YouTube](https://www.youtube.com/embed/eQ-UhIxW6Oc")
-
-[Medium](https://morthor.medium.com)
-
-[GitHub](https://github.com/Morthor)
-
+### GitHub :link: [GitHub](https://github.com/Morthor)
